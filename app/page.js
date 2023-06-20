@@ -124,7 +124,7 @@ export default function Home() {
           <div class="absolute inset-0 z-10  bg-gradient-to-br opacity-100  via-zinc-100/10  transition duration-1000 group-hover:opacity-50"></div>
           <div class="absolute inset-0 z-10 opacity-0 mix-blend-overlay transition duration-1000 group-hover:opacity-100"></div>
         </div>
-          <a href="https://chevitasjuicebagels.com/">
+          <a href="https://fiduciarybenefitsgroup.com/">
             <article class="relative w-full h-full p-4 md:p-8">
               <div class="flex items-center justify-between gap-2">
               </div>
