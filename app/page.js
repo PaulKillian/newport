@@ -2,6 +2,7 @@ import Image from 'next/image'
 import me from '../public/me.png'
 
 export default function Home() {
+  // /test
   return (
     <div class='flex flex-wrap justify-center'>
     <ul class="flex flex-wrap justify-center border-b-2 w-11/12 m-2">
