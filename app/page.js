@@ -38,7 +38,7 @@ export default function Home() {
             <div class="flex items-center justify-between gap-2">
             </div>
             <h2 id="featured-post" class="mt-4 text-3xl font-bold text-zinc-100 group-hover:text-white sm:text-4xl font-display">Real Estate Lifeline</h2>
-            <p class="mt-4 leading-8 duration-150 text-zinc-400 group-hover:text-zinc-300">Led the successful integration of Google/Microsoft calendar and email functionalities through implementation of RESTful APIs, facilitating seamless communication and scheduling between the two platforms. Implemented encryption and decryption functionality using AWS Key Management Service (KMS), ensuring secure storage and transfer of sensitive data. Stored sensitive, encrypted data in a MySQL database, leveraging best practices for data storage and protection. Collaborated with cross-functional teams to design and develop features and functionalities for the platform.</p>
+            <p class="mt-4 leading-8 duration-150 text-zinc-400 group-hover:text-zinc-300">Led the successful integration of Google/Microsoft calendar and email functionalities through implementation of RESTful APIs in Node.js, facilitating seamless communication and scheduling between the two platforms. Implemented encryption and decryption functionality using AWS Key Management Service (KMS), ensuring secure storage and transfer of sensitive data. Stored sensitive, encrypted data in a MySQL database, leveraging best practices for data storage and protection. Collaborated with cross-functional teams to design and develop features and functionalities for the platform.</p>
           </article>
         </a>
       </div>
@@ -53,7 +53,7 @@ export default function Home() {
               <div class="flex items-center justify-between gap-2">
               </div>
               <h2 id="featured-post" class="mt-4 text-3xl font-bold text-zinc-100 group-hover:text-white sm:text-4xl font-display">Classic Industries Tool</h2>
-              <p class="mt-4 leading-8 duration-150 text-zinc-400 group-hover:text-zinc-300">This web-based application has been purposefully developed to minimize call duration and eliminate the necessity for memorization, thereby enabling users to allocate more mental capacity to assisting customers, resulting in heightened efficiency and productivity.</p>
+              <p class="mt-4 leading-8 duration-150 text-zinc-400 group-hover:text-zinc-300">This web-based application has been purposefully developed with React to minimize call duration and eliminate the necessity for memorization, thereby enabling users to allocate more mental capacity to assisting customers, resulting in heightened efficiency and productivity.</p>
             </article>
           </a>
         </div>
@@ -68,7 +68,7 @@ export default function Home() {
               <div class="flex items-center justify-between gap-2">
               </div>
               <h2 id="featured-post" class="mt-4 text-3xl font-bold text-zinc-100 group-hover:text-white sm:text-4xl font-display">OER Tool</h2>
-              <p class="mt-4 leading-8 duration-150 text-zinc-400 group-hover:text-zinc-300">This web-based application was designed with the objective of streamlining the invoicing process for clients by minimizing the reliance on manual copy and paste operations. By implementing a click-based text copying mechanism, users can effortlessly extract information for invoices without the need to manually select and copy text. Previously, the invoice creation procedure involved printing orders and manually inputting part numbers. To address this inefficiency, I was actively developing a module that would automate the extraction of part numbers from scanned orders, allowing for seamless click-based copying.</p>
+              <p class="mt-4 leading-8 duration-150 text-zinc-400 group-hover:text-zinc-300">This web-based application was designed with React, with the objective of streamlining the invoicing process for clients by minimizing the reliance on manual copy and paste operations. By implementing a click-based text copying mechanism, users can effortlessly extract information for invoices without the need to manually select and copy text. Previously, the invoice creation procedure involved printing orders and manually inputting part numbers. To address this inefficiency, I was actively developing a module that would automate the extraction of part numbers from scanned orders, allowing for seamless click-based copying.</p>
             </article>
           </a>
         </div>
