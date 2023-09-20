@@ -16,7 +16,7 @@ export default function Home() {
       </li>
       <div class='ml-3 flex items-center'>
         <li class="mr-6 text-2xl font-bold">
-          <a class="text-gray-400 hover:text-white" href="tel:657-540-6770">657-540-6770</a>
+          <a class="text-gray-400 hover:text-white" href="tel:657-540-7760">657-540-7760</a>
         </li>
         <li class="mr-6 text-2xl font-bold">
           <a class="text-gray-400 hover:text-white" href="mailto:psk65lava@gmail.com">psk65lava@gmail.com</a>
